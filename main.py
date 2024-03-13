@@ -1,3 +1,14 @@
-import pandas as pd
-import numpy as np
-from pydantic import BaseModel
+def prepare_data():
+    ...
+
+
+def search_next_day():
+    ...
+
+
+def run():
+    ...
+
+
+if __name__ == '__main__':
+    run()
